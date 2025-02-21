@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598967583492",
+    "project_id": "hospitalplaylist-eb7e2",
+    "storage_bucket": "hospitalplaylist-eb7e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598967583492:android:de6c2cc455ed9690cb4651",
+        "android_client_info": {
+          "package_name": "com.hospitalplaylist.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Ldfzp8OUVXvnz-SDKnOa1B8o7m_MYGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
